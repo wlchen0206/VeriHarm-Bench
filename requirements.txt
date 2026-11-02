@@ -1,0 +1,2 @@
+# Host-side dependency. Matches the Inspect version used to develop this release.
+inspect-ai==0.3.144

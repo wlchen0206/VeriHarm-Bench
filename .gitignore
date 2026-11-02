@@ -1,0 +1,21 @@
+# Local eval runs
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Secrets / local env
+.env
+.env.*
+!.env.example
+
+# Inspect / Docker junk
+.inspect/
+*.eval
+.dockerignore.local
