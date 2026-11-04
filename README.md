@@ -1,6 +1,6 @@
 # VeriHarm-Bench: Measuring Harmful Success in LLM Coding Agents Verifiably
 
-![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)
+[![arXiv](https://img.shields.io/badge/arXiv-2611.03575-b31b1b.svg)](https://arxiv.org/abs/2611.03575)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Dataset-yellow)](https://huggingface.co/datasets/wlchen/VeriHarm-Bench-150)
 
 ## Overview
@@ -56,9 +56,9 @@ If you find this work useful, please kindly cite our paper:
 @article{chen2026veriharm,
   title   = {{VeriHarm-Bench}: Measuring Harmful Success in {LLM} Coding Agents Verifiably},
   author  = {Chen, Wei-Lin and Wei, Zhepei and Zhu, Xinyu and Tseng, Yu-Min and Lin, Tzu-Han and Meng, Yu},
-  journal = {arXiv preprint arXiv:},
+  journal = {arXiv preprint arXiv:2611.03575},
   year    = {2026},
-  url     = {https://arxiv.org/abs/}
+  url     = {https://arxiv.org/abs/2611.03575}
 }
 ```
 
